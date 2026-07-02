@@ -32,7 +32,7 @@ HTTP & Servers
 [021] 2026-06-30 Middleware composition and order of execution - https://chatgpt.com/c/6a43978a-e594-83e9-8496-07a890812149
 [023] 2026-06-30 HTTP/2 and HTTP/3 support - https://chatgpt.com/c/6a43cebb-8368-83e9-a5a8-03c0b1bd327e
 [024] 2026-07-01 Keep-alive connections, connection pooling - https://chatgpt.com/c/6a450b66-e23c-83e9-85da-b75a919eac81
-WebSocket servers with ws or socket.io
+[025] 2026-07-02 WebSocket servers with ws or socket.io - https://chatgpt.com/c/6a469e57-892c-83e9-91c4-df2cdc37b3d5
 Server-Sent Events (SSE)
 gRPC with @grpc/grpc-js
 
