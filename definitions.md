@@ -33,7 +33,7 @@ HTTP & Servers
 [023] 2026-06-30 HTTP/2 and HTTP/3 support - https://chatgpt.com/c/6a43cebb-8368-83e9-a5a8-03c0b1bd327e
 [024] 2026-07-01 Keep-alive connections, connection pooling - https://chatgpt.com/c/6a450b66-e23c-83e9-85da-b75a919eac81
 [025] 2026-07-02 WebSocket servers with ws or socket.io - https://chatgpt.com/c/6a469e57-892c-83e9-91c4-df2cdc37b3d5
-Server-Sent Events (SSE)
+[026] 2026-07-03 Server-Sent Events (SSE) - https://chatgpt.com/c/6a478862-47c4-83e9-8bc9-56a0b6ecf0a2
 gRPC with @grpc/grpc-js
 
 Async Patterns
