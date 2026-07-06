@@ -34,7 +34,7 @@ HTTP & Servers
 [024] 2026-07-01 Keep-alive connections, connection pooling - https://chatgpt.com/c/6a450b66-e23c-83e9-85da-b75a919eac81
 [025] 2026-07-02 WebSocket servers with ws or socket.io - https://chatgpt.com/c/6a469e57-892c-83e9-91c4-df2cdc37b3d5
 [026] 2026-07-03 Server-Sent Events (SSE) - https://chatgpt.com/c/6a478862-47c4-83e9-8bc9-56a0b6ecf0a2
-gRPC with @grpc/grpc-js
+[027] 2026-07-06 gRPC with @grpc/grpc-js - https://chatgpt.com/c/6a4bb920-9d18-83e9-bec0-d271d1444a72
 
 Async Patterns
 Callbacks, Promises, async/await — evolution and trade-offs
