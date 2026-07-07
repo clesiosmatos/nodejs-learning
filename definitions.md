@@ -37,7 +37,8 @@ HTTP & Servers
 [027] 2026-07-06 gRPC with @grpc/grpc-js - https://chatgpt.com/c/6a4bb920-9d18-83e9-bec0-d271d1444a72
 
 Async Patterns
-Callbacks, Promises, async/await — evolution and trade-offs
+
+[028] 2026-07-07 Callbacks, Promises, async/await — evolution and trade-offs - https://chatgpt.com/c/6a4cd081-5298-83e9-b3c4-0a4e6200bd95
 Error-first callback convention
 Promise.all, allSettled, race, any
 Async iteration: for await...of
