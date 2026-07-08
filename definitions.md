@@ -36,6 +36,22 @@ HTTP & Servers
 [026] 2026-07-03 Server-Sent Events (SSE) - https://chatgpt.com/c/6a478862-47c4-83e9-8bc9-56a0b6ecf0a2
 [027] 2026-07-06 gRPC with @grpc/grpc-js - https://chatgpt.com/c/6a4bb920-9d18-83e9-bec0-d271d1444a72
 
+Classes & OOP
+
+[029] 2026-07-08 ES6 class syntax: constructor, methods, instantiation with new - https://chatgpt.com/c/6a4e4bec-9288-83e9-85c8-eb8029a6e9ff
+Prototypal inheritance underpinning classes (prototype chain, __proto__)
+Inheritance with extends and super (constructor and method calls)
+Private fields and methods with # (hard privacy vs _convention)
+Static members: static methods, fields, and static initialization blocks
+Getters and setters with get / set accessors
+Instance vs static context and the this binding pitfall
+Class fields and arrow methods for auto-bound handlers
+instanceof, constructor.name, and Symbol.hasInstance
+Abstract base classes and mixins (composition over inheritance)
+Custom error classes extending Error (name, cause, captureStackTrace)
+EventEmitter subclassing for event-driven objects
+When to prefer plain objects / factory functions over classes
+
 Async Patterns
 
 [028] 2026-07-07 Callbacks, Promises, async/await — evolution and trade-offs - https://chatgpt.com/c/6a4cd081-5298-83e9-b3c4-0a4e6200bd95
