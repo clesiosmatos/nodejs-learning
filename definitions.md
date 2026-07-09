@@ -39,7 +39,7 @@ HTTP & Servers
 Classes & OOP
 
 [029] 2026-07-08 ES6 class syntax: constructor, methods, instantiation with new - https://chatgpt.com/c/6a4e4bec-9288-83e9-85c8-eb8029a6e9ff
-Prototypal inheritance underpinning classes (prototype chain, __proto__)
+[030] 2026-07-09 Prototypal inheritance underpinning classes (prototype chain, __proto__) - https://chatgpt.com/c/6a4f9554-25c4-83e9-9f5e-47d426ae8cde
 Inheritance with extends and super (constructor and method calls)
 Private fields and methods with # (hard privacy vs _convention)
 Static members: static methods, fields, and static initialization blocks
