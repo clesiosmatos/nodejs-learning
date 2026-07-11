@@ -41,7 +41,7 @@ Classes & OOP
 [029] 2026-07-08 ES6 class syntax: constructor, methods, instantiation with new - https://chatgpt.com/c/6a4e4bec-9288-83e9-85c8-eb8029a6e9ff
 [030] 2026-07-09 Prototypal inheritance underpinning classes (prototype chain, __proto__) - https://chatgpt.com/c/6a4f9554-25c4-83e9-9f5e-47d426ae8cde
 [031] 2026-07-10 Inheritance with extends and super (constructor and method calls) - https://chatgpt.com/c/6a50e6ac-a5a4-83e9-9044-5ab90a293daa
-Private fields and methods with # (hard privacy vs _convention)
+[032] 2026-07-11 Private fields and methods with # (hard privacy vs _convention) - https://chatgpt.com/c/6a521ef5-ffb8-83e9-b3d8-63c71f2b5020
 Static members: static methods, fields, and static initialization blocks
 Getters and setters with get / set accessors
 Instance vs static context and the this binding pitfall
