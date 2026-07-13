@@ -42,7 +42,7 @@ Classes & OOP
 [030] 2026-07-09 Prototypal inheritance underpinning classes (prototype chain, __proto__) - https://chatgpt.com/c/6a4f9554-25c4-83e9-9f5e-47d426ae8cde
 [031] 2026-07-10 Inheritance with extends and super (constructor and method calls) - https://chatgpt.com/c/6a50e6ac-a5a4-83e9-9044-5ab90a293daa
 [032] 2026-07-11 Private fields and methods with # (hard privacy vs _convention) - https://chatgpt.com/c/6a521ef5-ffb8-83e9-b3d8-63c71f2b5020
-Static members: static methods, fields, and static initialization blocks
+[033] 2026-07-13 Static members: static methods, fields, and static initialization blocks - https://chatgpt.com/c/6a54e429-7da0-83e9-b19d-96687a0a8af5
 Getters and setters with get / set accessors
 Instance vs static context and the this binding pitfall
 Class fields and arrow methods for auto-bound handlers
