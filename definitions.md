@@ -45,7 +45,7 @@ Classes & OOP
 [033] 2026-07-13 Static members: static methods, fields, and static initialization blocks - https://chatgpt.com/c/6a54e429-7da0-83e9-b19d-96687a0a8af5
 [034] 2026-07-14 Getters and setters with get / set accessors - https://chatgpt.com/c/6a5630a1-86cc-83e9-b378-e7e00c646b6b
 [035] 2026-07-15 Instance vs static context and the this binding pitfall - https://chatgpt.com/c/6a577957-d1ec-83e9-a372-2eec207c0987
-Class fields and arrow methods for auto-bound handlers
+[036] 2026-07-16 Class fields and arrow methods for auto-bound handlers - https://chatgpt.com/c/6a58d306-217c-83e9-a83e-cdfc165bf490
 instanceof, constructor.name, and Symbol.hasInstance
 Abstract base classes and mixins (composition over inheritance)
 Custom error classes extending Error (name, cause, captureStackTrace)
