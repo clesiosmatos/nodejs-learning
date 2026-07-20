@@ -47,7 +47,7 @@ Classes & OOP
 [035] 2026-07-15 Instance vs static context and the this binding pitfall - https://chatgpt.com/c/6a577957-d1ec-83e9-a372-2eec207c0987
 [036] 2026-07-16 Class fields and arrow methods for auto-bound handlers - https://chatgpt.com/c/6a58d306-217c-83e9-a83e-cdfc165bf490
 [037] 2026-07-17 instanceof, constructor.name, and Symbol.hasInstance - https://chatgpt.com/c/6a5ac9ea-8488-83e9-9ac2-4b70652fcacf
-Abstract base classes and mixins (composition over inheritance)
+[038] 2026-07-20 Abstract base classes and mixins (composition over inheritance) - https://chatgpt.com/c/6a5e1e76-36b8-83e9-876b-559834773d8a
 Custom error classes extending Error (name, cause, captureStackTrace)
 EventEmitter subclassing for event-driven objects
 When to prefer plain objects / factory functions over classes
