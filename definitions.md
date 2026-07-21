@@ -48,7 +48,7 @@ Classes & OOP
 [036] 2026-07-16 Class fields and arrow methods for auto-bound handlers - https://chatgpt.com/c/6a58d306-217c-83e9-a83e-cdfc165bf490
 [037] 2026-07-17 instanceof, constructor.name, and Symbol.hasInstance - https://chatgpt.com/c/6a5ac9ea-8488-83e9-9ac2-4b70652fcacf
 [038] 2026-07-20 Abstract base classes and mixins (composition over inheritance) - https://chatgpt.com/c/6a5e1e76-36b8-83e9-876b-559834773d8a
-Custom error classes extending Error (name, cause, captureStackTrace)
+[039] 2026-07-21 Custom error classes extending Error (name, cause, captureStackTrace) - https://chatgpt.com/c/6a5f6e13-ea60-83e9-b977-a463818e6819
 EventEmitter subclassing for event-driven objects
 When to prefer plain objects / factory functions over classes
 
