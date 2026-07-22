@@ -49,7 +49,7 @@ Classes & OOP
 [037] 2026-07-17 instanceof, constructor.name, and Symbol.hasInstance - https://chatgpt.com/c/6a5ac9ea-8488-83e9-9ac2-4b70652fcacf
 [038] 2026-07-20 Abstract base classes and mixins (composition over inheritance) - https://chatgpt.com/c/6a5e1e76-36b8-83e9-876b-559834773d8a
 [039] 2026-07-21 Custom error classes extending Error (name, cause, captureStackTrace) - https://chatgpt.com/c/6a5f6e13-ea60-83e9-b977-a463818e6819
-EventEmitter subclassing for event-driven objects
+[040] 2026-07-22 EventEmitter subclassing for event-driven objects - https://chatgpt.com/c/6a60bf7b-6514-83e9-8014-044474b80916
 When to prefer plain objects / factory functions over classes
 
 Async Patterns
