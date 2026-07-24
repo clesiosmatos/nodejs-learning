@@ -55,7 +55,7 @@ Classes & OOP
 Async Patterns
 
 [028] 2026-07-07 Callbacks, Promises, async/await — evolution and trade-offs - https://chatgpt.com/c/6a4cd081-5298-83e9-b3c4-0a4e6200bd95
-Error-first callback convention
+[042] 2026-07-24 Error-first callback convention - https://chatgpt.com/c/6a6361a9-cb88-83e9-b567-2c1eff6abb38
 Promise.all, allSettled, race, any
 Async iteration: for await...of
 util.promisify and util.callbackify
@@ -65,6 +65,7 @@ AbortController and AbortSignal for cancellation
 Async error handling patterns and propagation
 
 Streams & Buffers
+
 Readable, Writable, Duplex, Transform stream types
 Backpressure and highWaterMark
 pipe vs pipeline (error-safe)
@@ -76,6 +77,7 @@ Large file handling without memory overflow
 Compression streams: zlib, createGzip
 
 Data & Storage
+
 SQL with pg / mysql2: connection pooling, parameterized queries
 ORMs: Prisma, TypeORM, Drizzle — trade-offs
 Query builders: Knex.js
@@ -87,6 +89,7 @@ N+1 query detection and prevention
 Transaction management and isolation levels
 
 Concurrency & Workers
+
 cluster module — multi-process load balancing
 worker_threads — true parallelism for CPU-bound tasks
 Shared memory with SharedArrayBuffer and Atomics
@@ -96,6 +99,7 @@ IPC (inter-process communication) patterns
 Offloading heavy computation to avoid event loop blocking
 
 Performance
+
 Event loop lag measurement: perf_hooks, --inspect
 Profiling with Chrome DevTools / clinic.js
 Memory leak detection: heap snapshots, v8.writeHeapSnapshot
@@ -108,6 +112,7 @@ Benchmarking with autocannon or wrk
 V8 optimization hints and hidden class stability
 
 Security
+
 Input validation and sanitization (Zod, Joi)
 SQL injection and NoSQL injection prevention
 Helmet.js for HTTP security headers
@@ -120,6 +125,7 @@ Prototype pollution prevention
 Path traversal and SSRF mitigations
 
 Error Handling & Logging
+
 Operational vs programmer errors distinction
 Custom error classes extending Error
 Centralized error middleware in Express / Fastify
@@ -130,6 +136,7 @@ Log levels, correlation IDs, request tracing
 Error serialization and stack trace capture
 
 Testing
+
 Unit testing with Jest / Vitest / Node test runner
 Integration testing with Supertest
 Mocking: jest.mock, nock, msw
@@ -141,6 +148,7 @@ Load and stress testing with autocannon
 Snapshot testing for serialized output
 
 TypeScript with Node.js
+
 tsconfig.json: moduleResolution, target, strict mode
 Path aliases and tsconfig-paths
 Typing process.env with declaration merging
@@ -151,6 +159,7 @@ Declaration files and @types/* packages
 Zod for runtime validation aligned with TypeScript types
 
 Deployment & Infrastructure
+
 Docker: multi-stage builds, .dockerignore, non-root user
 Environment-specific config: dotenv, convict
 PM2 for process management and clustering
@@ -161,6 +170,7 @@ Containerized apps on ECS / Kubernetes
 CI/CD with GitHub Actions, semantic versioning
 
 Microservices & Messaging
+
 REST API design: versioning, pagination, HATEOAS
 Message queues: SQS, RabbitMQ, Kafka
 Event-driven architecture: publishers, consumers, event schemas
@@ -171,6 +181,7 @@ Idempotency and at-least-once delivery handling
 Distributed tracing: OpenTelemetry, Jaeger
 
 Tooling & Ecosystem
+
 Package managers: npm, pnpm, yarn — workspaces and lockfiles
 Monorepos: Turborepo, Nx
 ESLint with eslint-plugin-node and import rules
