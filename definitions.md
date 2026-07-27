@@ -57,7 +57,7 @@ Async Patterns
 [028] 2026-07-07 Callbacks, Promises, async/await — evolution and trade-offs - https://chatgpt.com/c/6a4cd081-5298-83e9-b3c4-0a4e6200bd95
 [042] 2026-07-24 Error-first callback convention - https://chatgpt.com/c/6a6361a9-cb88-83e9-b567-2c1eff6abb38
 [043] 2026-07-26 Promise.all, allSettled, race, any - https://chatgpt.com/c/6a664312-2050-83e9-b725-3d3e9073a7c7
-Async iteration: for await...of
+[044] 2026-07-27 Async iteration: for await...of - https://chatgpt.com/c/6a6733ae-ac08-83e9-85a6-492249c6dc67
 util.promisify and util.callbackify
 Concurrency control: p-limit, p-queue
 Avoiding unhandled promise rejections
