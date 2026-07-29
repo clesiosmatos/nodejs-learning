@@ -59,7 +59,7 @@ Async Patterns
 [043] 2026-07-26 Promise.all, allSettled, race, any - https://chatgpt.com/c/6a664312-2050-83e9-b725-3d3e9073a7c7
 [044] 2026-07-27 Async iteration: for await...of - https://chatgpt.com/c/6a6733ae-ac08-83e9-85a6-492249c6dc67
 [045] 2026-07-28 util.promisify and util.callbackify - https://chatgpt.com/c/6a68a4db-b1e8-83e9-887d-a707941c88ea
-Concurrency control: p-limit, p-queue
+[046] 2026-07-29 Concurrency control: p-limit, p-queue - https://chatgpt.com/c/6a6a2fd6-fd80-83e9-a22c-150c55af9f69
 Avoiding unhandled promise rejections
 AbortController and AbortSignal for cancellation
 Async error handling patterns and propagation
