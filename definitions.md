@@ -61,7 +61,7 @@ Async Patterns
 [045] 2026-07-28 util.promisify and util.callbackify - https://chatgpt.com/c/6a68a4db-b1e8-83e9-887d-a707941c88ea
 [046] 2026-07-29 Concurrency control: p-limit, p-queue - https://chatgpt.com/c/6a6a2fd6-fd80-83e9-a22c-150c55af9f69
 [047] 2026-07-31 Avoiding unhandled promise rejections - https://chatgpt.com/c/6a6ca2ca-c0d0-83e9-b9f1-3143fd341a98
-AbortController and AbortSignal for cancellation
+[048] 2026-08-03 AbortController and AbortSignal for cancellation - https://chatgpt.com/c/6a70cb50-7bf4-83e9-ae62-ef67d8ac86e7
 Async error handling patterns and propagation
 
 Streams & Buffers
