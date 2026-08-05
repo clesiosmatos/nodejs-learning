@@ -66,7 +66,7 @@ Async Patterns
 
 Streams & Buffers
 
-Readable, Writable, Duplex, Transform stream types
+[050] 2026-08-05 Readable, Writable, Duplex, Transform stream types - https://chatgpt.com/c/6a7334be-ab00-83e9-9e1b-dafb5b0daee2
 Backpressure and highWaterMark
 pipe vs pipeline (error-safe)
 Object mode streams
