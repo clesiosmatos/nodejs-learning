@@ -68,7 +68,7 @@ Streams & Buffers
 
 [050] 2026-08-05 Readable, Writable, Duplex, Transform stream types - https://chatgpt.com/c/6a7334be-ab00-83e9-9e1b-dafb5b0daee2
 [051] 2026-08-06 Backpressure and highWaterMark - https://chatgpt.com/c/6a7486fd-2e80-83e9-ab56-ac1f42dba21c
-pipe vs pipeline (error-safe)
+[052] 2026-08-08 pipe vs pipeline (error-safe) - https://chatgpt.com/c/6a774767-f4f4-83e9-9664-c5fc75e1792c
 Object mode streams
 stream.Readable.from and async generators as streams
 Buffer vs TypedArray vs ArrayBuffer
