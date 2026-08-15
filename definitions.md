@@ -73,7 +73,7 @@ Streams & Buffers
 [054] 2026-08-12 stream.Readable.from and async generators as streams - https://chatgpt.com/c/6a7c6d64-76ec-83e9-8339-9c1d7a31c0f5
 [055] 2026-08-13 Buffer vs TypedArray vs ArrayBuffer - https://chatgpt.com/c/6a7dce65-be38-83e9-9c89-769c9aafb4cf
 [056] 2026-08-14 Encoding: UTF-8, base64, hex - https://chatgpt.com/c/6a7f0807-3980-83e9-a63a-771c201a6c19
-Large file handling without memory overflow
+[057] 2026-08-15 Large file handling without memory overflow - https://chatgpt.com/c/6a806249-34e4-83e9-80a1-42f24f296dc8
 Compression streams: zlib, createGzip
 
 Data & Storage
