@@ -79,7 +79,7 @@ Streams & Buffers
 Data & Storage
 
 [059] 2026-08-18 SQL with pg / mysql2: connection pooling, parameterized queries - https://chatgpt.com/c/6a844e32-a720-83e9-8b77-a83729e4f3ad
-ORMs: Prisma, TypeORM, Drizzle — trade-offs
+[060] 2026-08-19 ORMs: Prisma, TypeORM, Drizzle — trade-offs - https://chatgpt.com/c/6a859f37-b578-83e9-9145-66a1cd92d7c0
 Query builders: Knex.js
 MongoDB with Mongoose or native driver
 Redis for caching, pub/sub, rate limiting
