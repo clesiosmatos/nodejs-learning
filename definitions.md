@@ -83,7 +83,7 @@ Data & Storage
 Query builders: Knex.js
 MongoDB with Mongoose or native driver
 Redis for caching, pub/sub, rate limiting
-DynamoDB with AWS SDK v3
+[061] 2026-08-20 DynamoDB with AWS SDK v3 - https://chatgpt.com/c/6a86d8f1-fbb8-83e9-a999-f5b9e6dda3aa
 Migrations, schema management, seeds
 N+1 query detection and prevention
 Transaction management and isolation levels
