@@ -90,7 +90,7 @@ Transaction management and isolation levels
 
 Concurrency & Workers
 
-cluster module — multi-process load balancing
+[062] 2026-08-21 cluster module — multi-process load balancing - https://chatgpt.com/c/6a8845e6-2208-83e9-a707-615a6473b1ba
 worker_threads — true parallelism for CPU-bound tasks
 Shared memory with SharedArrayBuffer and Atomics
 Child processes: spawn, exec, fork
