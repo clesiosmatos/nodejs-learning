@@ -91,7 +91,7 @@ Transaction management and isolation levels
 Concurrency & Workers
 
 [062] 2026-08-21 cluster module — multi-process load balancing - https://chatgpt.com/c/6a8845e6-2208-83e9-a707-615a6473b1ba
-worker_threads — true parallelism for CPU-bound tasks
+[063] 2026-08-24 worker_threads — true parallelism for CPU-bound tasks - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6a8c1d8c4089c90359a1f9e7
 Shared memory with SharedArrayBuffer and Atomics
 Child processes: spawn, exec, fork
 Thread pool sizing via UV_THREADPOOL_SIZE
