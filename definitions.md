@@ -93,9 +93,9 @@ Concurrency & Workers
 [062] 2026-08-21 cluster module — multi-process load balancing - https://chatgpt.com/c/6a8845e6-2208-83e9-a707-615a6473b1ba
 [063] 2026-08-24 worker_threads — true parallelism for CPU-bound tasks - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6a8c1d8c4089c90359a1f9e7
 [064] 2026-08-25 Shared memory with SharedArrayBuffer and Atomics - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6a8d8a1beef6a466d0383bd6
-Child processes: spawn, exec, fork
-Thread pool sizing via UV_THREADPOOL_SIZE
-IPC (inter-process communication) patterns
+[065] 2026-08-26 Child processes: spawn, exec, fork - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6a8ec634a325edcf5092d6d3
+[066] 2026-08-27 Thread pool sizing via UV_THREADPOOL_SIZE - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6a902e36a325edcf5092f2a3
+[067] 2026-08-28 IPC (inter-process communication) patterns - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6a917e76a325edcf5093097e
 Offloading heavy computation to avoid event loop blocking
 
 Performance
