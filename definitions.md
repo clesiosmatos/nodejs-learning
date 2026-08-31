@@ -96,7 +96,7 @@ Concurrency & Workers
 [065] 2026-08-26 Child processes: spawn, exec, fork - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6a8ec634a325edcf5092d6d3
 [066] 2026-08-27 Thread pool sizing via UV_THREADPOOL_SIZE - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6a902e36a325edcf5092f2a3
 [067] 2026-08-28 IPC (inter-process communication) patterns - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6a917e76a325edcf5093097e
-[068] 2026-08-30 Offloading heavy computation to avoid event loop blocking - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6a946ba9a325edcf50932a2f
+[068] 2026-08-30 itOffloading heavy computation to avoid event loop blocking - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6a946ba9a325edcf50932a2f
 
 Performance
 
