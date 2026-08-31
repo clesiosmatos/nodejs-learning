@@ -100,7 +100,7 @@ Concurrency & Workers
 
 Performance
 
-Event loop lag measurement: perf_hooks, --inspect
+[069] 2026-08-31 Event loop lag measurement: perf_hooks, --inspect - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6a959054a325edcf50933ed2
 Profiling with Chrome DevTools / clinic.js
 Memory leak detection: heap snapshots, v8.writeHeapSnapshot
 Flame graphs with 0x or clinic flame
