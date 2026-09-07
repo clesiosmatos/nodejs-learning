@@ -105,7 +105,7 @@ Performance
 [071] 2026-09-02 Memory leak detection: heap snapshots, v8.writeHeapSnapshot - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6a98200ac19e0a02dbe85154
 [072] 2026-09-03 Flame graphs with 0x or clinic flame - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6a99c055c19e0a02dbe86010
 [073] 2026-08-04 Caching strategies: in-memory, Redis, CDN - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6a9ac99c6e95ba4a58125597
-Response compression: gzip, Brotli
+[074] 2026-09-07 Response compression: gzip, Brotli - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6a9ea2ac6e95ba4a581265ac
 Connection reuse and keep-alive tuning
 Avoiding synchronous fs methods in hot paths
 Benchmarking with autocannon or wrk
