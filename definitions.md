@@ -107,8 +107,8 @@ Performance
 [073] 2026-08-04 Caching strategies: in-memory, Redis, CDN - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6a9ac99c6e95ba4a58125597
 [074] 2026-09-07 Response compression: gzip, Brotli - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6a9ea2ac6e95ba4a581265ac
 [075] 2026-09-08 Connection reuse and keep-alive tuning - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6aa0153b6e95ba4a58127d49
-[076] 2026-09-09 Avoiding synchronous fs methods in hot paths - 
-Benchmarking with autocannon or wrk
+[076] 2026-09-09 Avoiding synchronous fs methods in hot paths - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6aa198a36e95ba4a58128f90
+[077] 2026-09-10 Benchmarking with autocannon or wrk - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6aa29ef72093954e2634eb28
 V8 optimization hints and hidden class stability
 
 Security
