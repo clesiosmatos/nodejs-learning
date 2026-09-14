@@ -113,7 +113,7 @@ Performance
 
 Security
 
-Input validation and sanitization (Zod, Joi)
+[079] 2026-09-14 Input validation and sanitization (Zod, Joi) - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6aa7f41ec5ceb6409c39d8a1
 SQL injection and NoSQL injection prevention
 Helmet.js for HTTP security headers
 Rate limiting: express-rate-limit, Redis sliding window
