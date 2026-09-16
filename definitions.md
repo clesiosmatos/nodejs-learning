@@ -115,7 +115,7 @@ Security
 
 [079] 2026-09-14 Input validation and sanitization (Zod, Joi) - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6aa7f41ec5ceb6409c39d8a1
 [080] 2026-09-15 SQL injection and NoSQL injection prevention - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6aa958889a4cc6f808ea126b
-Helmet.js for HTTP security headers
+[081] 2026-09-16 Helmet.js for HTTP security headers - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6aaa99629a4cc6f808ea2a85
 Rate limiting: express-rate-limit, Redis sliding window
 JWT authentication: signing, verification, expiry
 Secrets management: env vars, AWS Secrets Manager, Vault
