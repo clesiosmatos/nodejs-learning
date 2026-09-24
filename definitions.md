@@ -119,7 +119,7 @@ Security
 [082] 2026-09-21 Rate limiting: express-rate-limit, Redis sliding window - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6ab10f1c9a4cc6f808ea6389
 [083] 2026-09-22 JWT authentication: signing, verification, expiry - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6ab28b589a4cc6f808ea7cb6
 [084] 2026-09-23 Secrets management: env vars, AWS Secrets Manager, Vault - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6ab3c8d403db51edace51ddf
-Dependency auditing: npm audit, Snyk, Dependabot
+[085] 2026-09-24 Dependency auditing: npm audit, Snyk, Dependabot - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6ab51c5603db51edace53c32
 CORS configuration and pitfalls
 Prototype pollution prevention
 Path traversal and SSRF mitigations
