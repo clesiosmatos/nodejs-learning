@@ -120,7 +120,7 @@ Security
 [083] 2026-09-22 JWT authentication: signing, verification, expiry - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6ab28b589a4cc6f808ea7cb6
 [084] 2026-09-23 Secrets management: env vars, AWS Secrets Manager, Vault - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6ab3c8d403db51edace51ddf
 [085] 2026-09-24 Dependency auditing: npm audit, Snyk, Dependabot - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6ab51c5603db51edace53c32
-CORS configuration and pitfalls
+[086] 2026-09-25 CORS configuration and pitfalls - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6ab65cc403db51edace5521c
 Prototype pollution prevention
 Path traversal and SSRF mitigations
 
