@@ -122,7 +122,7 @@ Security
 [085] 2026-09-24 Dependency auditing: npm audit, Snyk, Dependabot - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6ab51c5603db51edace53c32
 [086] 2026-09-25 CORS configuration and pitfalls - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6ab65cc403db51edace5521c
 [087] 2026-09-28 Prototype pollution prevention - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6abac42703db51edace596c0
-Path traversal and SSRF mitigations
+[088] 2026-09-30 Path traversal and SSRF mitigations - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6abd098803db51edace5ba88
 
 Error Handling & Logging
 
