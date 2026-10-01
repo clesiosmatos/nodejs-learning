@@ -126,7 +126,7 @@ Security
 
 Error Handling & Logging
 
-Operational vs programmer errors distinction
+[089] 2026-10-01 Operational vs programmer errors distinction - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6abe655303db51edace5cfb5
 Custom error classes extending Error
 Centralized error middleware in Express / Fastify
 process.on('uncaughtException') and 'unhandledRejection'
