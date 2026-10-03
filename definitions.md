@@ -127,7 +127,7 @@ Security
 Error Handling & Logging
 
 [089] 2026-10-01 Operational vs programmer errors distinction - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6abe655303db51edace5cfb5
-Custom error classes extending Error
+[090] 2026-10-03 Custom error classes extending Error - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6ac13824a7838db8f5d11bd2
 Centralized error middleware in Express / Fastify
 process.on('uncaughtException') and 'unhandledRejection'
 Graceful shutdown: draining connections before exit
