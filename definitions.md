@@ -131,7 +131,7 @@ Error Handling & Logging
 [091] 2026-10-05 Centralized error middleware in Express / Fastify - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6ac13824a7838db8f5d11bd3
 [092] 2026-10-07 process.on('uncaughtException') and 'unhandledRejection' - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6ac64a8ab8fb87e13f7153b3
 [093] 2026-10-08 Graceful shutdown: draining connections before exit - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6ac795ddb8fb87e13f7166fa
-Structured logging with pino or winston
+[094] 2026-10-09 Structured logging with pino or winston - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6ac8e66a5c17094ac9f436a5
 Log levels, correlation IDs, request tracing
 Error serialization and stack trace capture
 
