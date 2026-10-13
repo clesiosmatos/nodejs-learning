@@ -132,7 +132,7 @@ Error Handling & Logging
 [092] 2026-10-07 process.on('uncaughtException') and 'unhandledRejection' - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6ac64a8ab8fb87e13f7153b3
 [093] 2026-10-08 Graceful shutdown: draining connections before exit - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6ac795ddb8fb87e13f7166fa
 [094] 2026-10-09 Structured logging with pino or winston - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6ac8e66a5c17094ac9f436a5
-Log levels, correlation IDs, request tracing
+[095] 2026-10-13 Log levels, correlation IDs, request tracing - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6ace36f65c17094ac9f4508a
 Error serialization and stack trace capture
 
 Testing
