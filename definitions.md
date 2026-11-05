@@ -137,7 +137,7 @@ Error Handling & Logging
 
 Testing
 
-Unit testing with Jest / Vitest / Node test runner
+[097] 2026-11-05 Unit testing with Jest / Vitest / Node test runner - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6aec750f1a0d67eb345918e5
 Integration testing with Supertest
 Mocking: jest.mock, nock, msw
 Database testing with test containers or in-memory DBs
