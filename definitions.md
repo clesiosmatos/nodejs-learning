@@ -141,7 +141,7 @@ Testing
 [098] 2026-11-06 Integration testing with Supertest - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6aeddc9c1a0d67eb34592f09
 [099] 2026-11-07 Mocking: jest.mock, nock, msw - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6aef8c9b1a0d67eb34595a56
 [100] 2026-11-09 Database testing with test containers or in-memory DBs - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6af1d9361a0d67eb34597d34
-E2E testing with Playwright
+[101] 2026-11-10 E2E testing with Playwright - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6af319781a0d67eb3459917f
 Test coverage: Istanbul / c8
 Contract testing with Pact
 Load and stress testing with autocannon
