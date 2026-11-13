@@ -143,7 +143,7 @@ Testing
 [100] 2026-11-09 Database testing with test containers or in-memory DBs - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6af1d9361a0d67eb34597d34
 [101] 2026-11-10 E2E testing with Playwright - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6af319781a0d67eb3459917f
 [102] 2026-11-11 Test coverage: Istanbul / c8 - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6af46e671a0d67eb3459a4cc
-Contract testing with Pact
+[103] 2026-11-13 Contract testing with Pact - https://upmindy.com/studies/6a8c1d774089c90359a1f9ac/module/6af72d681a0d67eb3459f815
 Load and stress testing with autocannon
 Snapshot testing for serialized output
 
